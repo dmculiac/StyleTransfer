@@ -1,6 +1,6 @@
 # Neural Style Transfer
 
-##Intuition
+## Intuition
 
 Why this particular topic? In a regression or classification problem the input is fixed and we optimize an objective function with regard to parameters, i.e. we tweak the parameters until the objective function is optimized. In a neural style transfer, the optimization is performed on the input data and the parameters are preset (pre-trained). So this represents a drastically different angle for optimization than we usually take. But there's also a connection to time series
 
