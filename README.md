@@ -6,6 +6,8 @@ Why this particular topic? In a regression or classification problem the input i
 
 ##
 We'll generate an image that is a blend between the content of a input image and the style of another input image. We'll acomplish this by balancing the content loss and the style loss of the blended image simultaneously.
+
+##
 Convolutional Neural Networks (CNNs) are very good at extracting features from an image: horizontal, vertical, diagonal, triangles, circles, squares etc. So when we're passing as input the content picture, the CNN extracts just the essence of the input. The rest is filled with the style coming form the second input.
 
 ##
