@@ -4,7 +4,7 @@
   </p>
 
 #### Why this particular topic to begin with
-In a regression or classification problem, the input is fixed and we optimize an objective function with regard to parameters, i.e. we tweak the parameters until the objective function is optimized. In a neural style transfer, the optimization is performed on the input data and the parameters are preset (pre-trained). So this represents a drastically different angle for optimization than we usually take. But there's also a connection to time series
+In a regression or classification problem, the **input is fixed** and we optimize an objective function with regard to parameters, i.e. we tweak the parameters until the objective function is optimized. In a neural style transfer, the **optimization is performed on the input data** while the parameters are preset (fixed, pre-trained). So this represents a drastically different angle for optimization than we usually take. But there's more to it. This offers an opportunity to tackle the semantics of style in a quantitative way. 
 
 #### Intuition for NST
 We'll generate an image that is a blend between the content of a input image and the style of another input image. We'll acomplish this by balancing the content loss and the style loss of the blended image simultaneously.
