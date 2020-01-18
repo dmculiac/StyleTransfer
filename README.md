@@ -1,6 +1,6 @@
 # Neural Style Transfer
 <p align = 'center'>
-  <img src="https://cdn-images-1.medium.com/max/1200/0*7g3-vN0duXsQB07u.", width='230'>
+  <img src="https://cdn-images-1.medium.com/max/1200/0*7g3-vN0duXsQB07u.", width='220'>
   <img src = "https://images.squarespace-cdn.com/content/54856bade4b0c4cdfb17e3c0/1478946037611-W80NSF6WA0DRXE31SBCS/?content-type=image%2Fjpeg", width='300' >
   <img src = "https://i.ytimg.com/vi/mGE64KyNtu4/hqdefault.jpg", width='230'>
   </p>
